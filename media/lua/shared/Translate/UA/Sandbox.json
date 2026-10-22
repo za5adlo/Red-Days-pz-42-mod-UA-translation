@@ -1,0 +1,156 @@
+{
+    "Sandbox_RedDays": "Червоні дні (Red Days)",
+
+    "Sandbox_RedDays_hygiene_items_spawn_on_corpses": "Поява засобів гігієни на трупах",
+    "Sandbox_RedDays_hygiene_items_spawn_on_corpses_tooltip": "За задумом, на жіночих трупах часто можна знайти 1–2 запасні прокладки чи тампони, і вкрай рідко — цілу упаковку.",
+
+    "Sandbox_RedDays_hygiene_item_packages_spawn_on_corpses": "Поява упаковок гігієни на трупах",
+    "Sandbox_RedDays_hygiene_item_packages_spawn_on_corpses_tooltip": "Вимкніть, щоб на трупах з'являлися лише поштучні засоби без цілих упаковок. Вимагає увімкненого параметра «Поява засобів гігієни на трупах».",
+
+    "Sandbox_RedDays_spawn_with_hygiene_products": "Початок гри із засобами гігієни",
+    "Sandbox_RedDays_spawn_with_hygiene_products_tooltip": "Нові персонажі починатимуть гру з 2 щоденними прокладками, 1 тампоном та 1 гігієнічною прокладкою в інвентарі.",
+
+    "Sandbox_RedDays_follicular_irregularity_severity_pct": "Тяжкість фолікулярної нерегулярності",
+    "Sandbox_RedDays_follicular_irregularity_severity_pct_tooltip": "Масштабує, скільки додаткового часу додає до фолікулярної фази нерегулярність, пов'язана з вагою. 0 — вимкнено, 100 — звичайно, до 300 — потроєно.",
+
+    "Sandbox_RedDays_follicular_phase_max_days": "Макс. тривалість фолікулярної фази (ліміт нерегулярності)",
+    "Sandbox_RedDays_follicular_phase_max_days_tooltip": "Суворий ліміт (у днях) на те, як довго фолікулярна фаза може тривати через нерегулярність (вагу або травму).",
+
+    "Sandbox_RedDays_trauma_hp_threshold_pct": "Поріг здоров'я для затримки через травму",
+    "Sandbox_RedDays_trauma_hp_threshold_pct_tooltip": "Якщо здоров'я падає нижче цього відсотка під час фолікулярної фази, цикл одноразово затримується.",
+
+    "Sandbox_RedDays_trauma_follicular_delay_days": "Тривалість затримки через травму",
+    "Sandbox_RedDays_trauma_follicular_delay_days_tooltip": "Скільки днів додається до фолікулярної фази, коли перейдено поріг здоров'я для травми.",
+
+    "Sandbox_RedDays_affectsAllGenders": "Вплив на всі статі",
+    "Sandbox_RedDays_affectsAllGenders_tooltip": "Увімкніть, щоб додати менструальний цикл усім персонажам незалежно від їхньої статі.",
+
+    "Sandbox_RedDays_phase_start_delay_enabled": "Випадкова дата початку менструації",
+    "Sandbox_RedDays_phase_start_delay_enabled_tooltip": "Це переважно для нових персонажів, щоб гравці не починали гру завжди з фази менструації.",
+
+    "Sandbox_RedDays_PMS_ConsistentVsRandom": "Постійні чи випадкові симптоми ПМС",
+    "Sandbox_RedDays_PMS_ConsistentVsRandom_tooltip": "Увімкніть для стабільних симптомів ПМС кожного циклу (симптоми випадково призначаються під час створення персонажа). Вимкніть для випадкових симптомів кожного нового циклу.",
+
+    "Sandbox_RedDays_painkillerEffectDuration": "Тривалість дії знеболювального",
+    "Sandbox_RedDays_painkillerEffectDuration_tooltip": "Кожне очко дорівнює 10 хвилинам. Стандартно: 36x10=360 хв або 6 годин.",
+
+    "Sandbox_RedDays_painkillerEffectReductionPct": "Послаблення ПМС від знеболювального (%)",
+    "Sandbox_RedDays_painkillerEffectReductionPct_tooltip": "Наскільки сильно знеболювальні зменшують тяжкість симптомів ПМС, поки вони діють.",
+
+    "Sandbox_RedDays_foodPMSReductionCapPct": "Ліміт послаблення ПМС їжею (%)",
+    "Sandbox_RedDays_foodPMSReductionCapPct_tooltip": "Максимальне сумарне зниження тяжкості ПМС від споживання їжі, що полегшує ПМС (молочні продукти, шоколад, вівсянка, горіхи, банани, риба). Ефекти від різної їжі сумуються до цього ліміту.",
+
+    "Sandbox_RedDays_foodPMSEffectDuration": "Тривалість дії їжі проти ПМС",
+    "Sandbox_RedDays_foodPMSEffectDuration_tooltip": "Кожне очко дорівнює 10 хвилинам. Стандартно: 36x10=360 хв або 6 годин. Споживання іншої відповідної їжі скидає цей таймер, як і у випадку зі знеболювальними.",
+
+    "Sandbox_RedDays_PMS_duration_upperbound": "Максимальна тривалість ПМС",
+    "Sandbox_RedDays_PMS_duration_upperbound_tooltip": "Максимальний час для ПМС. Симптоми наростатимуть ближче до кінця лютеїнової фази та переходитимуть у перший день менструації.",
+
+    "Sandbox_RedDays_PMS_duration_lowerbound": "Мінімальна тривалість ПМС",
+    "Sandbox_RedDays_PMS_duration_lowerbound_tooltip": "Мінімальний час для ПМС. Симптоми наростатимуть ближче до кінця лютеїнової фази та переходитимуть у перший день менструації.",
+
+    "Sandbox_RedDays_menstrual_cycle_duration_lowerBound": "Мінімальна тривалість циклу",
+    "Sandbox_RedDays_menstrual_cycle_duration_lowerBound_tooltip": "Найменша можлива тривалість менструального циклу (в днях).",
+
+    "Sandbox_RedDays_menstrual_cycle_duration_upperBound": "Максимальна тривалість циклу",
+    "Sandbox_RedDays_menstrual_cycle_duration_upperBound_tooltip": "Найбільша можлива тривалість менструального циклу (в днях).",
+
+    "Sandbox_RedDays_red_phase_duration_lowerBound": "Мінімальна тривалість червоної фази",
+    "Sandbox_RedDays_red_phase_duration_lowerBound_tooltip": "Найменша можлива тривалість (в днях) для червоної фази (менструації).",
+
+    "Sandbox_RedDays_red_phase_duration_upperBound": "Максимальна тривалість червоної фази",
+    "Sandbox_RedDays_red_phase_duration_upperBound_tooltip": "Найбільша можлива тривалість (в днях) для червоної фази (менструації).",
+
+    "Sandbox_RedDays_follicular_phase_duration_lowerBound": "Мінімальна тривалість фолікулярної фази",
+    "Sandbox_RedDays_follicular_phase_duration_lowerBound_tooltip": "Найменша можлива тривалість (в днях) для фолікулярної фази.",
+
+    "Sandbox_RedDays_follicular_phase_duration_upperBound": "Максимальна тривалість фолікулярної фази",
+    "Sandbox_RedDays_follicular_phase_duration_upperBound_tooltip": "Найбільша можлива тривалість (в днях) для фолікулярної фази.",
+
+    "Sandbox_RedDays_ovulation_phase_duration_lowerBound": "Мінімальна тривалість фази овуляції",
+    "Sandbox_RedDays_ovulation_phase_duration_lowerBound_tooltip": "Найменша можлива тривалість (в днях) для фази овуляції.",
+
+    "Sandbox_RedDays_ovulation_phase_duration_upperBound": "Максимальна тривалість фази овуляції",
+    "Sandbox_RedDays_ovulation_phase_duration_upperBound_tooltip": "Найбільша можлива тривалість (в днях) для фази овуляції.",
+
+    "Sandbox_RedDays_luteal_phase_duration_lowerBound": "Мінімальна тривалість лютеїнової фази",
+    "Sandbox_RedDays_luteal_phase_duration_lowerBound_tooltip": "Найменша можлива тривалість (в днях) для лютеїнової фази.",
+
+    "Sandbox_RedDays_luteal_phase_duration_upperBound": "Максимальна тривалість лютеїнової фази",
+    "Sandbox_RedDays_luteal_phase_duration_upperBound_tooltip": "Найбільша можлива тривалість (в днях) для лютеїнової фази.",
+
+    "Sandbox_RedDays_phase_start_delay_lowerBound": "Мін. час затримки першої менструації",
+    "Sandbox_RedDays_phase_start_delay_lowerBound_tooltip": "Найменша кількість днів до початку вашої першої менструації.",
+
+    "Sandbox_RedDays_phase_start_delay_upperBound": "Макс. час затримки першої менструації",
+    "Sandbox_RedDays_phase_start_delay_upperBound_tooltip": "Максимальна кількість днів до початку вашої першої менструації.",
+
+    "Sandbox_RedDays_healthEffectLowerBound": "Мінімальний вплив на здоров'я",
+    "Sandbox_RedDays_healthEffectLowerBound_tooltip": "Масштабує силу болю, дискомфорту, втоми та впливу на витривалість під час менструації.",
+
+    "Sandbox_RedDays_healthEffectUpperBound": "Максимальний вплив на здоров'я",
+    "Sandbox_RedDays_healthEffectUpperBound_tooltip": "Масштабує силу болю, дискомфорту, втоми та впливу на витривалість під час менструації.",
+
+    "Sandbox_RedDays_tss_enabled": "Увімкнути систему СТШ",
+    "Sandbox_RedDays_tss_enabled_tooltip": "Увімкнути або вимкнути розвиток Синдрому Токсичного Шоку (СТШ) та механіки його лікування.",
+
+    "Sandbox_RedDays_tss_lethal_enabled": "Увімкнути смертельний СТШ",
+    "Sandbox_RedDays_tss_lethal_enabled_tooltip": "Якщо увімкнено, невилікувана 3-тя стадія може перерости в 4-ту стадію — токсичний шок.",
+
+    "Sandbox_RedDays_tss_risk_multiplier_pct": "Множник ризику СТШ",
+    "Sandbox_RedDays_tss_risk_multiplier_pct_tooltip": "Масштабує швидкість зростання ризику переходу з 3-ї стадії до 4-ї. Нижче значення — безпечніше, вище — небезпечніше.",
+
+    "Sandbox_RedDays_tss_tampon_grace_hours": "Безпечний час носіння тампона (години)",
+    "Sandbox_RedDays_tss_tampon_grace_hours_tooltip": "Як довго можна носити тампон, перш ніж він почне створювати ризик розвитку СТШ.",
+
+    "Sandbox_RedDays_tss_warning_interval_mins": "Інтервал попереджень про СТШ (хвилини)",
+    "Sandbox_RedDays_tss_warning_interval_mins_tooltip": "Як часто показуються попереджувальні повідомлення про СТШ, поки активні симптоми.",
+
+    "Sandbox_RedDays_tss_stage0_duration_lowerBound": "СТШ: Мін. час від Стадії 0 до 1 (години)",
+    "Sandbox_RedDays_tss_stage0_duration_lowerBound_tooltip": "Мінімальна кількість ігрових годин, перш ніж використання тампона почне переростати в інфекцію Стадії 1. Нижчі значення змушують інфекцію починатися раніше за безперервного використання.",
+
+    "Sandbox_RedDays_tss_stage0_duration_upperBound": "СТШ: Макс. час від Стадії 0 до 1 (години)",
+    "Sandbox_RedDays_tss_stage0_duration_upperBound_tooltip": "Максимальний час, протягом якого неінфікований стан (Стадія 0) може тривати до примусового переходу на Стадію 1. Вищі значення відкладають початок первинної інфекції.",
+
+    "Sandbox_RedDays_tss_stage1_duration_lowerBound": "СТШ: Мін. час від Стадії 1 до 2 (години)",
+    "Sandbox_RedDays_tss_stage1_duration_lowerBound_tooltip": "Мінімальна кількість ігрових годин, перш ніж початкова інфекція (Стадія 1) зможе розвинутися в укорінену інфекцію (Стадія 2). Нижчі значення прискорюють погіршення стану.",
+
+    "Sandbox_RedDays_tss_stage1_duration_upperBound": "СТШ: Макс. час від Стадії 1 до 2 (години)",
+    "Sandbox_RedDays_tss_stage1_duration_upperBound_tooltip": "Максимальний час, протягом якого інфекція Стадії 1 може тривати до примусового переходу на Стадію 2. Вищі значення подовжують періоди легкої інфекції.",
+
+    "Sandbox_RedDays_tss_stage2_duration_lowerBound": "СТШ: Мін. час від Стадії 2 до 3 (години)",
+    "Sandbox_RedDays_tss_stage2_duration_lowerBound_tooltip": "Мінімальна кількість ігрових годин, перш ніж укорінена інфекція (Стадія 2) зможе перерости у важку системну хворобу (Стадія 3). Нижчі значення збільшують швидкість настання небезпеки.",
+
+    "Sandbox_RedDays_tss_stage2_duration_upperBound": "СТШ: Макс. час від Стадії 2 до 3 (години)",
+    "Sandbox_RedDays_tss_stage2_duration_upperBound_tooltip": "Максимальний час, протягом якого інфекція Стадії 2 може тривати до переходу на Стадію 3. Вищі значення уповільнюють настання важкої хвороби.",
+
+    "Sandbox_RedDays_tss_recovery_hours_per_stage": "Час відновлення від СТШ на стадію (години)",
+    "Sandbox_RedDays_tss_recovery_hours_per_stage_tooltip": "Необхідні ігрові години лікування (тампон/прокладку вийнято, антибіотики відсутні), щоб опуститися на одну стадію СТШ назад. Наприклад, перехід зі Стадії 3 до Стадії 0 займе втричі більше часу. Антибіотики подвоюють швидкість відновлення, поки діє доза.",
+
+    "Sandbox_RedDays_tss_min_stage3_hours": "СТШ: Мін. час на Стадії 3 до токсичного шоку",
+    "Sandbox_RedDays_tss_min_stage3_hours_tooltip": "Мінімальна кількість ігрових годин, які необхідно провести на Стадії 3 (важка інфекція), перш ніж з'явиться ризик настання Синдрому Токсичного Шоку (Стадія 4). СТШ не може виникнути раніше цього порогу.",
+
+    "Sandbox_RedDays_tss_complication_chance_pct": "Базовий шанс ускладнення (%)",
+    "Sandbox_RedDays_tss_complication_chance_pct_tooltip": "Коли активна інфекція (до настання СТШ), це погодинний шанс на раптове ускладнення. Вищі значення означають, що симптоми можуть погіршуватися частіше, особливо якщо ви хворі, втомлені, відчуваєте спрагу, змерзли або перегрілися.",
+
+    "Sandbox_RedDays_tss_abx_dose_cooldown_hours": "Інтервал між дозами антибіотиків (години)",
+    "Sandbox_RedDays_tss_abx_dose_cooldown_hours_tooltip": "Скільки годин діє одна доза антибіотика, перш ніж знадобиться наступна. Ефект лікування від кожної дози поступово згасає протягом цього періоду.",
+
+    "Sandbox_RedDays_tss_abx_pills_to_cure": "Кількість таблеток антибіотиків для лікування Стадії 4",
+    "Sandbox_RedDays_tss_abx_pills_to_cure_tooltip": "Скільки доз антибіотиків потрібно для повного одужання від токсичного шоку Стадії 4. Стандартне значення 10 — це приблизно 5-денний курс по 2 дози на день.",
+
+    "Sandbox_RedDays_tss_abx_suppress_window_hours": "Тривалість захисту здоров'я антибіотиком (години)",
+    "Sandbox_RedDays_tss_abx_suppress_window_hours_tooltip": "Кількість годин після прийому дози антибіотика, протягом яких пригнічується повне падіння здоров'я від Стадії 4 хвороби. Стандартно це 12 годин, що відповідає графіку прийому 2 доз на день.",
+
+    "Sandbox_RedDays_tss_stage4_hp_drain_pct": "Втрата здоров'я на Стадії 4 СТШ під час неспання (%)",
+    "Sandbox_RedDays_tss_stage4_hp_drain_pct_tooltip": "Множник у відсотках для базової втрати здоров'я під час Синдрому Токсичного Шоку (Стадія 4), поки персонаж не спить. 100 = звичайно (базово 0.15 од. здр./хв). 200 = подвійна втрата. 50 = половина втрати. Втрата здоров'я також масштабується залежно від температури тіла.",
+
+    "Sandbox_RedDays_tss_stage4_sleep_hp_drain_pct": "Втрата здоров'я на Стадії 4 СТШ під час сну (%)",
+    "Sandbox_RedDays_tss_stage4_sleep_hp_drain_pct_tooltip": "Множник у відсотках для базової втрати здоров'я на Стадії 4, поки гравець спить (окремо від втрати під час неспання). 0 = здоров'я уві сні не втрачається. Без антибіотиків ви все одно можете померти уві сні; втрата масштабується від температури тіла так само, як і під час неспання.",
+
+    "Sandbox_RedDays_tss_abx_sleep_health_cap_pct": "Ліміт виживання уві сні під антибіотиками (%)",
+    "Sandbox_RedDays_tss_abx_sleep_health_cap_pct_tooltip": "За умови активної дії антибіотиків Стадія 4 не може опустити здоров'я нижче цього відсотка. Сон під антибіотиками відновлює здоров'я до цієї межі й не дозволить вам померти. Без антибіотиків цей ліміт не діє.",
+
+    "Sandbox_RedDays_tss_fever_nudge_strength_pct": "Сила підштовхування лихоманки СТШ (%)",
+    "Sandbox_RedDays_tss_fever_nudge_strength_pct_tooltip": "Множник у відсотках для того, наскільки сильно СТШ підштовхує лихоманку вище стандартного плато хвороби 4-ї стадії в базовій грі (~38°C). 0 повністю вимикає додатковий розігрів; 100 — стандартна інтенсивність підштовхування. Температура тіла все одно в основному регулюється мудлетом хвороби."
+}

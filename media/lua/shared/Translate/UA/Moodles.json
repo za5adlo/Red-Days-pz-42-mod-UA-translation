@@ -1,0 +1,51 @@
+{
+    "Moodles_DirtyPantyLiner_Bad_lvl1": "Брудна щоденна прокладка",
+    "Moodles_DirtyPantyLiner_Bad_desc_lvl1": "Трохи занадто зношена для комфорту.",
+
+    "Moodles_BloodyPantyLiner_Bad_lvl3": "Починається...",
+    "Moodles_BloodyPantyLiner_Bad_desc_lvl3": "Відчуття, наче носиш мокру серветку. Не рекомендується.",
+    "Moodles_BloodyPantyLiner_Bad_lvl4": "Протікання щоденної прокладки",
+    "Moodles_BloodyPantyLiner_Bad_desc_lvl4": "Починає розповсюджуватися відчуття вологи.",
+
+    "Moodles_DirtySanitaryPad_Bad_lvl1": "Брудна гігієнічна прокладка",
+    "Moodles_DirtySanitaryPad_Bad_desc_lvl1": "Не рекомендується використовувати поза менструацією.",
+
+    "Moodles_BloodySanitaryPad_Bad_lvl1": "Забруднена",
+    "Moodles_BloodySanitaryPad_Bad_desc_lvl1": "Вона\u2019виконала свою роботу, навіть із лишком.",
+    "Moodles_BloodySanitaryPad_Bad_lvl2": "Сильно забруднена",
+    "Moodles_BloodySanitaryPad_Bad_desc_lvl2": "Починає\u2019з'являтися неприємне відчуття хлюпання.",
+    "Moodles_BloodySanitaryPad_Bad_lvl3": "Майже переповнена",
+    "Moodles_BloodySanitaryPad_Bad_desc_lvl3": "Ви\u2019за один кашель від катастрофи.",
+    "Moodles_BloodySanitaryPad_Bad_lvl4": "Переповнена",
+    "Moodles_BloodySanitaryPad_Bad_desc_lvl4": "Починає розповсюджуватися відчуття вологи.",
+
+    "Moodles_DirtyTampon_Bad_lvl1": "Брудний тампон",
+    "Moodles_DirtyTampon_Bad_desc_lvl1": "Не підходить для використання поза менструацією.",
+
+    "Moodles_BloodyTampon_Bad_lvl1": "Забруднений",
+    "Moodles_BloodyTampon_Bad_desc_lvl1": "Він\u2019виконав свою роботу, навіть із лишком.",
+    "Moodles_BloodyTampon_Bad_lvl2": "Сильно забруднений",
+    "Moodles_BloodyTampon_Bad_desc_lvl2": "Починає\u2019з'являтися неприємне відчуття хлюпання.",
+    "Moodles_BloodyTampon_Bad_lvl3": "Майже переповнений",
+    "Moodles_BloodyTampon_Bad_desc_lvl3": "Ви\u2019за один кашель від катастрофи.",
+    "Moodles_BloodyTampon_Bad_lvl4": "Переповнений",
+    "Moodles_BloodyTampon_Bad_desc_lvl4": "Починає розповсюджуватися відчуття вологи.",
+
+    "Moodles_Leak_Bad_lvl1": "Ой-ой!",
+    "Moodles_Leak_Bad_desc_lvl1": "Ви відчуваєте раптову, дискомфортну вологість.",
+    "Moodles_Leak_Bad_lvl2": "Помітна пляма",
+    "Moodles_Leak_Bad_desc_lvl2": "Ви помічаєте, як розповсюджується зрадлива пляма.",
+    "Moodles_Leak_Bad_lvl3": "Незручна ситуація",
+    "Moodles_Leak_Bad_desc_lvl3": "Це зовсім не те, як ви хотіли провести свій день.",
+    "Moodles_Leak_Bad_lvl4": "Зона катастрофи",
+    "Moodles_Leak_Bad_desc_lvl4": "Воно\u2019всюди...",
+
+    "Moodles_TSSInfection_Bad_lvl1": "Щось забули?",
+    "Moodles_TSSInfection_Bad_desc_lvl1": "Ви відчуваєте легкий дискомфорт там знизу...",
+    "Moodles_TSSInfection_Bad_lvl2": "Щось не так",
+    "Moodles_TSSInfection_Bad_desc_lvl2": "Ви починаєте почуватися зле. Коли ви востаннє змінювали тампон?",
+    "Moodles_TSSInfection_Bad_lvl3": "Важка інфекція",
+    "Moodles_TSSInfection_Bad_desc_lvl3": "Запаморочення, нудота та лихоманка, що посилюється, ускладнюють навіть прості завдання.",
+    "Moodles_TSSInfection_Bad_lvl4": "Синдром токсичного шоку",
+    "Moodles_TSSInfection_Bad_desc_lvl4": "Ваше тіло відмовляє. Без негайного лікування ви можете не вижити."
+}
